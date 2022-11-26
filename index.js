@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-console.log("tee");
+console.log("teerawat - software engineer  ssd");
